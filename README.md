@@ -15,7 +15,6 @@ Make sure you have the following things already installed:
 Next, run the following commands:
 
 ```bash
-mkdir build
 make
 qemu-system-x86_64 build/main_floppy.img
 ```
